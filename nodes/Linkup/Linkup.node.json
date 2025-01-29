@@ -1,0 +1,25 @@
+{
+	"node": "n8n-nodes-base.linkup",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Search", "API"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://docs.n8n.io/integrations/builtin/credentials/linkup/"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.linkup/"
+			}
+		],
+		"generic": [
+			{
+				"label": "The Linkup API can be used in AI workflows to find and access high quality content from the internet. You can follow the steps below to integrate Linkup easily.",
+				"icon": "⚡️",
+				"url": "https://n8n.io/blog/5-tasks-you-can-automate-with-linkup-api/"
+			}
+		]
+	}
+}
